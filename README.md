@@ -4,11 +4,19 @@
 
 This is a collection of nix scripts that I use to create declarative environments in *Elastic Cloud Servers*
 
+## I don't know what nix is!
+
+It's a package manager that allows for declarative system configuration, check out the [official docs](https://nixos.org/) for a better explanation
+
 ## Instalation
 
 ``` sh
 # todo
-git clone
 ```
 
+## Usage
+
+``` sh
+# todo
+```
 
