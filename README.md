@@ -11,7 +11,8 @@ It's a package manager that allows for declarative system configuration, check o
 ## Instalation
 
 ``` sh
-# todo
+# todo git clone
+# todo what to type in interactive install (no and yes)
 ```
 
 ## Usage

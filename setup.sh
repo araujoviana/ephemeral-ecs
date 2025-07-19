@@ -4,6 +4,8 @@
 
 set -e # Exits when anything fails
 
+echo "Starting setup!!"
+
 if command -v nix >/dev/null 2>&1; then
     echo "Nix is already installed 🤦"
     exit 0
